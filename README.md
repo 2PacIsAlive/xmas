@@ -1,6 +1,6 @@
 # xmas
 
-##### Ry: ```python game.py```
+##### Ry: ```python word_blasta.py```
 ##### Mush: ```python adam_vs_kelsey.py```
 ##### Pops: ```python run_tracker.py```
 ##### Dave: ```python main.py```
